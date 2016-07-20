@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "MasterDetailPage", "MasterDetailPage\MasterDetailPage.fsproj", "{FA4F69F5-2DE0-47DE-B57A-64A6DE626BCD}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "MasterDetailPage.Droid", "Droid\MasterDetailPage.Droid.fsproj", "{8072A4F1-0EE4-48AF-81DB-692895FAA738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4F69F5-2DE0-47DE-B57A-64A6DE626BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4F69F5-2DE0-47DE-B57A-64A6DE626BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4F69F5-2DE0-47DE-B57A-64A6DE626BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4F69F5-2DE0-47DE-B57A-64A6DE626BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8072A4F1-0EE4-48AF-81DB-692895FAA738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8072A4F1-0EE4-48AF-81DB-692895FAA738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8072A4F1-0EE4-48AF-81DB-692895FAA738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8072A4F1-0EE4-48AF-81DB-692895FAA738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
